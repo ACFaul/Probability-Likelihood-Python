@@ -1,4 +1,4 @@
-# Probability-Theory-Python
+# Probability-Likelihood-Python
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ACFaul/Probability-Likelihood-Python/HEAD)
 
